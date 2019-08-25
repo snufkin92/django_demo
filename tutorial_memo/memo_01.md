@@ -1,6 +1,6 @@
 # はじめての Django アプリ作成、その 1
 
-## チュートリアル全般
+##　チュートリアル全般
 * チュートリアルは Django 2.2 と Python 3.5が前提。
 （上述以上のバージョンが入っていれば大丈夫なはず）
 * [django-usersメーリングリスト](https://docs.djangoproject.com/ja/2.2/internals/mailing-lists/#django-users-mailing-list)
