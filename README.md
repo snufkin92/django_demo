@@ -9,6 +9,11 @@
 - README.md：本ファイル
 - sandbox.txt：githubの練習用ファイル
 
+## 注意
+Pycharmが作成する設定ファイル等（.idea、venv等）はgitにupしないで下さい。
+
+## [Wiki](https://github.com/snufkin92/django_demo/wiki)を参照
+PyCharm等、Djangoとは関係ないTipsは[Wiki](https://github.com/snufkin92/django_demo/wiki)を参照してください。
 
 ## [はじめての Django アプリ作成 のメモ](https://docs.djangoproject.com/ja/2.2/intro/)
 - [その１](tutorial_memo/memo_01.md)
