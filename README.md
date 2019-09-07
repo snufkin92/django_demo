@@ -14,7 +14,7 @@
 - [その１](tutorial_memo/memo_01.md)
 - [その２](tutorial_memo/memo_02.md)
 - [その３](tutorial_memo/memo_03.md)
-- その４
-- その５
+- [その４](tutorial_memo/memo_04.md)
+- [その５](tutorial_memo/memo_05.md)
 - その６
 - その７
