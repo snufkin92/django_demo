@@ -1,7 +1,7 @@
 # Djangoデモ
 
 ## 目的
-[はじめての Django アプリ作成](https://docs.djangoproject.com/ja/2.2/intro/)を通し、djangoの使い方を学ぶ
+[PyCharm](https://pleiades.io/help/pycharm/basic-tutorials.html)と[はじめての Django アプリ作成](https://docs.djangoproject.com/ja/2.2/intro/)を通し、djangoの使い方を学ぶ
 
 ## 構成
 - mysite：チュートリアルの成果物
