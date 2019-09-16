@@ -21,5 +21,5 @@ PyCharm等、Djangoとは関係ないTipsは[Wiki](https://github.com/snufkin92/
 - [その３](tutorial_memo/memo_03.md)
 - [その４](tutorial_memo/memo_04.md)
 - [その５](tutorial_memo/memo_05.md)
-- その６
+- [その６](tutorial_memo/memo_06.md)
 - その７
