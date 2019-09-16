@@ -1,0 +1,9 @@
+li a {
+    color: green;
+    text-indent: 1em;/* not avalaible for inline elements */
+    display: inline-block;
+}
+
+body {
+    background: white url("images/background.png") no-repeat;
+}
